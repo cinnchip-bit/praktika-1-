@@ -1,0 +1,10 @@
+# Demonstration of the variant 9 commands
+who
+ls
+tree /
+cal 10 2026
+cd documents
+ls
+cd /
+cp /hello.txt /documents
+ls /documents

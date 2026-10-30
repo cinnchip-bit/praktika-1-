@@ -1,0 +1,32 @@
+{
+  "type": "dir",
+  "children": {
+    "documents": {
+      "type": "dir",
+      "children": {
+        "study": {
+          "type": "dir",
+          "children": {
+            "python": {
+              "type": "dir",
+              "children": {
+                "notes.txt": {
+                  "type": "file",
+                  "content": "Python study notes.\n"
+                }
+              }
+            }
+          }
+        },
+        "readme.txt": {
+          "type": "file",
+          "content": "Documents folder.\n"
+        }
+      }
+    },
+    "hello.txt": {
+      "type": "file",
+      "content": "Hello from nested VFS!\n"
+    }
+  }
+}

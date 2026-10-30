@@ -1,0 +1,17 @@
+{
+  "type": "dir",
+  "children": {
+    "hello.txt": {
+      "type": "file",
+      "content": "Hello!\n"
+    },
+    "todo.txt": {
+      "type": "file",
+      "content": "1. Study\n2. Practice\n"
+    },
+    "empty": {
+      "type": "dir",
+      "children": {}
+    }
+  }
+}
